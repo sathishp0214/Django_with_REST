@@ -104,6 +104,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+practice_virtual/
 env/
 venv/
 ENV/
